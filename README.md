@@ -3,10 +3,7 @@
 <img src="images/screen1.png" width="276" height="597"> <img src="images/screen2.png" width="276" height="597">
 
 
-
-A new Flutter project.
-
-## Getting Started
+## Getting Started Flutter
 
 This project is a starting point for a Flutter application.
 
