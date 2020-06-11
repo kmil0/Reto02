@@ -1,8 +1,8 @@
 # Reto 🤯
 
-<img src="images/screen1.png" width="276" height="597"> <img src="images/i2.png" width="276" height="597">
+<img src="images/screen1.png" width="276" height="597"> <img src="images/screen2.png" width="276" height="597">
 
-<img src="images/screen2.png" width="276" height="597"> <img src="images/i2.png" width="276" height="597">
+
 
 A new Flutter project.
 
